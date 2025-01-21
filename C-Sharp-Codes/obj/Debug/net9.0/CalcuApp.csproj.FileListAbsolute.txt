@@ -1,0 +1,14 @@
+c:\Users\vanjo\OneDrive\Desktop\CalcuApp\bin\Debug\net9.0\CalcuApp.exe
+c:\Users\vanjo\OneDrive\Desktop\CalcuApp\bin\Debug\net9.0\CalcuApp.deps.json
+c:\Users\vanjo\OneDrive\Desktop\CalcuApp\bin\Debug\net9.0\CalcuApp.runtimeconfig.json
+c:\Users\vanjo\OneDrive\Desktop\CalcuApp\bin\Debug\net9.0\CalcuApp.dll
+c:\Users\vanjo\OneDrive\Desktop\CalcuApp\bin\Debug\net9.0\CalcuApp.pdb
+c:\Users\vanjo\OneDrive\Desktop\CalcuApp\obj\Debug\net9.0\CalcuApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vanjo\OneDrive\Desktop\CalcuApp\obj\Debug\net9.0\CalcuApp.AssemblyInfoInputs.cache
+c:\Users\vanjo\OneDrive\Desktop\CalcuApp\obj\Debug\net9.0\CalcuApp.AssemblyInfo.cs
+c:\Users\vanjo\OneDrive\Desktop\CalcuApp\obj\Debug\net9.0\CalcuApp.csproj.CoreCompileInputs.cache
+c:\Users\vanjo\OneDrive\Desktop\CalcuApp\obj\Debug\net9.0\CalcuApp.dll
+c:\Users\vanjo\OneDrive\Desktop\CalcuApp\obj\Debug\net9.0\refint\CalcuApp.dll
+c:\Users\vanjo\OneDrive\Desktop\CalcuApp\obj\Debug\net9.0\CalcuApp.pdb
+c:\Users\vanjo\OneDrive\Desktop\CalcuApp\obj\Debug\net9.0\CalcuApp.genruntimeconfig.cache
+c:\Users\vanjo\OneDrive\Desktop\CalcuApp\obj\Debug\net9.0\ref\CalcuApp.dll
